@@ -1,6 +1,6 @@
 # Algorithm_03
 
-# 1. Model 
+# 1. Model (I choose Model 3: 7 Layers with 4 Convolution layer)
 ![image](https://user-images.githubusercontent.com/65785444/83531676-41d56380-a528-11ea-8999-2edd594171e7.png)
 
 # 2. Training with Training loss 
