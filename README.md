@@ -20,7 +20,7 @@ Test1
 Test2
 ### 1. Model (MODEL 2 : 5 Layers with 2 Convolution layer)
 ![image](https://user-images.githubusercontent.com/65785444/83613225-75fb6380-a5be-11ea-9c03-2ea991974267.png)
-![image](https://user-images.githubusercontent.com/65785444/83613267-827fbc00-a5be-11ea-92ba-92e1b25c01fc.png)
+![image](https://user-images.githubusercontent.com/65785444/83627071-5b7eb580-a5d1-11ea-9a7a-eb8fb477eefb.png)
 
 ### 2. Training with Training loss 
 ![image](https://user-images.githubusercontent.com/65785444/83613588-f3bf6f00-a5be-11ea-8dd5-5a5d510d473b.png)
