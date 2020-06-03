@@ -18,7 +18,7 @@ Test1
 ![image](https://user-images.githubusercontent.com/65785444/83612760-ca521380-a5bd-11ea-85d0-19625fd07314.png)
 
 Test2
-### 1. Model (I choose Model 3: 7 Layers with 4 Convolution layer)
+### 1. Model (MODEL 2 : 5 Layers with 2 Convolution layer)
 ![image](https://user-images.githubusercontent.com/65785444/83613225-75fb6380-a5be-11ea-9c03-2ea991974267.png)
 ![image](https://user-images.githubusercontent.com/65785444/83613267-827fbc00-a5be-11ea-92ba-92e1b25c01fc.png)
 
@@ -36,18 +36,19 @@ Test2
 ![image](https://user-images.githubusercontent.com/65785444/83613728-2b2e1b80-a5bf-11ea-8cc8-d5687b0f8582.png)
 
 Test3
-### 1. Model (I choose Model 3: 7 Layers with 4 Convolution layer)
-![image](https://user-images.githubusercontent.com/65785444/83610801-fcae4180-a5ba-11ea-96b0-40780125a63c.png)
+### 1. Model (Model 3: 7 Layers with 4 Convolution layer)
+![image](https://user-images.githubusercontent.com/65785444/83626582-98967800-a5d0-11ea-995a-46e66c9c5ed5.png)
 
 ### 2. Training with Training loss 
-![image](https://user-images.githubusercontent.com/65785444/83532006-a5f82780-a528-11ea-816b-fb77c04b7cdb.png)
+![image](https://user-images.githubusercontent.com/65785444/83626664-bcf25480-a5d0-11ea-81f3-d67934de2f85.png)
 
 ### 3. Test Accuracy
-![image](https://user-images.githubusercontent.com/65785444/83532124-d049e500-a528-11ea-8e49-3f05990964ba.png)
+![image](https://user-images.githubusercontent.com/65785444/83626743-dd221380-a5d0-11ea-9201-418b4bf4f191.png)
 
 ### 4. Images and corresponding probability that predicted Right 
-![image](https://user-images.githubusercontent.com/65785444/83532260-f7a0b200-a528-11ea-9b3a-c0ae852aeb8b.png)
+![image](https://user-images.githubusercontent.com/65785444/83626842-ff1b9600-a5d0-11ea-8532-21034f0f6894.png)
 
 ### 5. Images and corresponding probability that predicted Wrong
-![image](https://user-images.githubusercontent.com/65785444/83532327-0f783600-a529-11ea-9f8f-533565fa295f.png)
+![image](https://user-images.githubusercontent.com/65785444/83626952-2d00da80-a5d1-11ea-8c73-7aaf68684dee.png)
+
 
